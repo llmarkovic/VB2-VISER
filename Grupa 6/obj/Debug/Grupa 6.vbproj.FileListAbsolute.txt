@@ -1,0 +1,75 @@
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\bin\Debug\Grupa 6.exe.config
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\bin\Debug\Grupa 6.exe
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\bin\Debug\Grupa 6.pdb
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\bin\Debug\Grupa 6.xml
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbprojResolveAssemblyReference.cache
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.Form1.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmCrvena.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmPlava.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak1.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak2.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak3.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak5.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak6.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.Resources.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbproj.GenerateResource.cache
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbproj.CoreCompileInputs.cache
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa 6.exe
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa 6.xml
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa 6.pdb
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak4.resources
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\bin\Debug\Interop.WMPLib.dll
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\bin\Debug\AxInterop.WMPLib.dll
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Interop.WMPLib.dll
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\AxInterop.WMPLib.dll
+c:\users\marko borak\source\repos\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbproj.ResolveComReference.cache
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\bin\Debug\Grupa 6.exe.config
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\bin\Debug\Grupa 6.exe
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\bin\Debug\Grupa 6.pdb
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\bin\Debug\Grupa 6.xml
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\bin\Debug\Interop.WMPLib.dll
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbprojResolveAssemblyReference.cache
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Interop.WMPLib.dll
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbproj.ResolveComReference.cache
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.Form1.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmCrvena.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmPlava.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak1.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak2.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak3.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak4.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak5.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak6.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa_6.Resources.resources
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbproj.GenerateResource.cache
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbproj.CoreCompileInputs.cache
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa 6.exe
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa 6.xml
+C:\Users\Marko Borak\Desktop\Odbrana uop\Grupa 6\Grupa 6\obj\Debug\Grupa 6.pdb
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\bin\Debug\Grupa 6.exe.config
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\bin\Debug\Grupa 6.exe
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\bin\Debug\Grupa 6.pdb
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\bin\Debug\Grupa 6.xml
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\bin\Debug\Interop.WMPLib.dll
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbprojAssemblyReference.cache
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Interop.WMPLib.dll
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbproj.ResolveComReference.cache
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.Form1.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmCrvena.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmPlava.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak1.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak2.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak3.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak4.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak5.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.frmZadatak6.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa_6.Resources.resources
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbproj.GenerateResource.cache
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa 6.vbproj.CoreCompileInputs.cache
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa 6.exe
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa 6.xml
+C:\Users\luka1\OneDrive\Desktop\uop\Grupa 6\Grupa 6\Grupa 6\obj\Debug\Grupa 6.pdb
